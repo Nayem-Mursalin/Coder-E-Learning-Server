@@ -1,7 +1,9 @@
-const { application } = require('express');
 const express = require('express')
 const app = express();
+const cors = require('cors');
 const port = process.env.PORT || 5500;
+
+app.use(cors());
 
 const categoryies = require('./data/category.json');
 
