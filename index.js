@@ -15,6 +15,12 @@ app.get('/course-categories', (req, res) => {
     res.send(categoryies);
 })
 
+app.get('/course/:id', (req, res) => {
+    const ids = req.params.id;
+    const courses = categoryies.filter(n => n.id == ids);
+    res.send(courses);
+})
+
 app.listen(port, () => {
     console.log("Our E-Learning Server is Running on port: ", port);
 })
