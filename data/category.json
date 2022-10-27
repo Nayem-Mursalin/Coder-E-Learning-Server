@@ -1,62 +1,62 @@
 [
     {
-      "id": "01",
+      "id": "1",
       "name": "HTML",
       "title": "Learn HTML in 10 Days",
-      "description": "abc of html",
-      "price": "18",
+      "description": "We Will Learn Html. we will take the first step.  Join now to start learning how you too can write your own HTML code today.",
+      "price": "12",
       "instructor": "Nayem",
-      "img_url": "",
-      "total_enrolled": "1050"
+      "img_url": "https://i.ibb.co/xXSBySL/htmllogo.png",
+      "total_enrolled": "9050"
     },
     {
-      "id": "02",
+      "id": "2",
       "name": "CSS",
-      "title": "Learn CSS in 10 Days",
+      "title": " shows you how to design web pages and create CSS classes from a beginner's level to a more intermediate level. It starts off with basic HTML declarations, properties, values and how to include a CSS style sheet with your HTML code. For those of you who are new to CSS and HTML, we show you step-by-step how to create a CSS file and include it in your HTML code, even if you use a cloud server for your hosting.",
       "description": "abc of css in 69",
-      "price": "18",
-      "instructor": "Nayem",
-      "img_url": "",
-      "total_enrolled": "1050"
+      "price": "20",
+      "instructor": "Jerin",
+      "img_url": "https://i.ibb.co/QMqYWhq/csslogo.png",
+      "total_enrolled": "1090"
     },
     {
-      "id": "03",
+      "id": "3",
       "name": "JavaScript",
-      "title": "Learn JS in 10 Days",
-      "description": "Js Learning Tool",
-      "price": "18",
-      "instructor": "Nayem",
-      "img_url": "",
-      "total_enrolled": "1050"
+      "title": "Learn JS in 40 Days, We Will Start From Basic",
+      "description": "This is Js Learning Tool, You can Learn JS Within 2 months after buying this course",
+      "price": "30",
+      "instructor": "Nazmul",
+      "img_url": "https://i.ibb.co/vBBgL2F/JSlogo.png",
+      "total_enrolled": "5570"
     },
     {
-      "id": "04",
+      "id": "4",
       "name": "ReactJS",
-      "title": "Learn React in 10 Days",
+      "title": "Learn React in 30 Days. You Will Able to Build Website using React",
       "description": "know About React JS",
-      "price": "18",
-      "instructor": "Nayem",
-      "img_url": "",
+      "price": "38",
+      "instructor": "Shawon",
+      "img_url": "https://i.ibb.co/HDXfvCh/Reactlogo.png",
       "total_enrolled": "1050"
     },
     {
-      "id": "05",
+      "id": "5",
       "name": "Python",
       "title": "Learn Python in 30 Days",
       "description": "Python is Fun",
-      "price": "18",
+      "price": "30",
       "instructor": "Nayem",
-      "img_url": "",
-      "total_enrolled": "1050"
+      "img_url": "https://i.ibb.co/L9SFK6q/pylogo.png",
+      "total_enrolled": "1240"
     },
     {
-      "id": "06",
+      "id": "6",
       "name": "NodeJS",
       "title": "Learn Node in 25 Days",
       "description": "abc NOdeJS",
-      "price": "18",
-      "instructor": "Nayem",
-      "img_url": "",
-      "total_enrolled": "1050"
+      "price": "45",
+      "instructor": "Riyad",
+      "img_url": "https://i.ibb.co/YtjD5LR/Nodelogo.png",
+      "total_enrolled": "3450"
     }
   ]

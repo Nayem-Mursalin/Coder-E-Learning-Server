@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
     res.send('Coder-e-Learnig Server Running')
 })
 
-app.get('/course-categories', (req, res) => {
+app.get('/allcourses', (req, res) => {
     res.send(categoryies);
 })
 
